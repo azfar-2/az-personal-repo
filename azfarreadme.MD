@@ -82,6 +82,40 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<!------------------   -------------------------------------------------------------------- -->
+<!---------------- Recommend Blog Post ----------------------------------------------------- -->
+<!---------------------  ------------------------------------------------------------------- -->
+
+
+
+
+<!------------------   -------------------------------------------------------------------- -->
+<!----------------[END] Recommend Blog Post ----------------------------------------------------- -->
+<!---------------------  ------------------------------------------------------------------- -->
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<samp>Trying to touch and learn 1 new thing everyday!</samp>
+---
+
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+
+ <samp>Tools & Technologies</samp> |  <samp>Badge</samp> |
+--- | --- |
+<samp>DevOps</samp> | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![openshift](https://img.shields.io/badge/openshift-%230db7ed.svg?style=for-the-badge&logo=openshift&logoColor=white) ![microservices](https://img.shields.io/badge/microservices-%230075A8.svg?style=for-the-badge&logo=microservices&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
+<samp>Cloud Platforms </samp>| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|
+<samp>Operating System</samp> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
+<samp>Frameworks</samp> | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)|
+<samp>IDE</samp> | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)| 
+<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
+<samp>Servers</samp> | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)|
+<samp>Databases</samp> | ![mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)|
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -126,10 +160,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="mdazfar2" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdazfar2&show_icons=true&locale=en&theme=ayu-mirage" alt="mdazfar2" /></a> </p>
 
 
-## MY GITHUB STATS -
+# Github Stats
 
 <!-- ---------------------------------------STATS------------------------------------------
 --------------------------------------------------------------------------------------------- -->
@@ -141,7 +174,6 @@
                 alt="mdazfar2" height="170" /></p>
                 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <img src="https://img.shields.io/github/followers/mdazfar2.svg?style=social&amp;label=Follow"
@@ -152,8 +184,9 @@
         
           
 
-      
- <details>
+<br>      
+<details>
+  
 <p align="center">
   <a href="https://github.com/mdazfar2">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdazfar2&theme=transparent" />
@@ -166,8 +199,15 @@
   </a>
   <a href="https://github.com/mdazfar2">
 
+</details>
 
+<br><br>
 
+  <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+  
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
