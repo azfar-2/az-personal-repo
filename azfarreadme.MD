@@ -51,17 +51,19 @@
 
 👋 Greetings! It's great to have you here. I'm Azfar Alam, an enthusiastic DevOps Engineer hailing from India.
 
+🚀 As the Founder of [HelpOps-Hub](https://www.helpopshub.com/), I created HelpOps-Hub to prevent anyone from getting stuck in DevOps. When I was learning DevOps, I encountered many errors with various tools and technologies that I couldn't solve by myself. It took a lot of time to resolve these issues, so I created HelpOps-Hub to save others from wasting their time on these errors. As the founder of HelpOps-Hub, I invite everyone to join our platform, share their experiences with DevOps tools and technologies, provide solutions to errors, and learn how to resolve issues quickly.
+
 🎯 As the Co-Founder of [Emanate](https://emanate.co.in), I've driven the creation of a pioneering platform that reimagines how investors and startups collaborate. Emanate isn't just a platform; it's a dynamic community and vital funding contributions. Our innovative concept introduces the “First Social Media Platform for Investor and Startups,” Empowering investors with comprehensive insights into registered startups.
 
-🏆 As a Technical Volunteer at LinuxWorld Informatics Pvt Ltd, I lead 25+ online learners orchestrating tasks, teaching DevOps, and enhancing skills in CI/CD, and cloud tech. Beyond leadership, I thrive as a troubleshooter, unraveling technical challenges and leaving a lasting impact on careers.
+🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead 100+ online learners orchestrating tasks, teaching DevOps, and enhancing skills in CI/CD, and cloud tech. Beyond leadership, I thrive as a troubleshooter, unraveling technical challenges and leaving a lasting impact on careers.
 
 🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Sharing Startup Dreams](www.emanate.co.in).
 
-🚀 &nbsp; With an impressive following of 6k+ enthusiasts on [LinkedIn](https://www.linkedin.com/in/md-azfar-alam/), I'm an avid aficionado on a mission to cultivate a thriving community of tech enthusiasts. In a vibrant tapestry of innovation and knowledge through prolific sharing of projects and blogs, my [LinkedIn](https://www.linkedin.com/in/md-azfar-alam/) presence invites others to join the ever-evolving conversation in the world of technology.
+🔥 &nbsp; With an impressive following of 10k+ on [Linkedin](https://www.linkedin.com/in/md-azfar-alam/), I post a lot of DevOps technology content, various technology-related projects, and ideas for integrating different technologies.
 
 🔖 &nbsp; I am busy writing articles on use cases across various industries and technologies on [medium](https://medium.com/@azfaralam).
 
-🔥 &nbsp;  I also sculpt my professional journey, while on [Hashnode](https://azfaralam.hashnode.dev/), Where I craft a repository of wisdom—a personal trove of step-by-step guides. These articles serve as my compass for future undertakings, ensuring not only personal clarity but also offering a guiding light for fellow enthusiasts navigating the intricate landscape of tech setups and insights.
+🔥 &nbsp; I also write my articles on [Hashnode](https://azfaralam.hashnode.dev/) so that I don't face any problems in the future. For example, if I learn something new in DevOps technology today, I write the whole thing step-by-step in my [Hashnode blog article](https://azfaralam.hashnode.dev/) with screenshots so that I can refer to it in the future and understand it immediately. It can help others too.
 
 😄 &nbsp; My standout strength lies in my unwavering adaptability—a dynamic force that transforms challenges into opportunities. Coupled with a relentless passion for continuous learning, I thrive in pushing boundaries, embracing innovation, and consistently delivering results that exceed expectations. 
 
@@ -154,12 +156,22 @@
 
 <hr>
 
+<!--
 <br><br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="mdazfar2" />
-</p>
+</p> 
+-->
 
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
 
 
 # Github Stats
@@ -203,11 +215,25 @@
 
 <br><br>
 
+
+<!-- ---------------------------------------3D Contributor------------------------------------------
+--------------------------------------------------------------------------------------------- -->
+
+<div align="center" >
+<h1> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
+ </div>
+
+        
+
+<div align="center">
+<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</div>
+
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
   
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
