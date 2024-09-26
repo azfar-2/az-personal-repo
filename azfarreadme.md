@@ -12,7 +12,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdazfar2%2Fmdazfar2&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
   <a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
-<!--   <a href="https://www.showwcase.com/mdazfar2"><img src="https://github.com/mdazfar2/mdazfar2/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+<!--   <a href="https://www.showwcase.com/mdazfar2"><img src="https://github.com/mdazfar2/mdazfar2/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a>. -->
   <a href="http://www.linkedin.com/in/md-azfar-alam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
@@ -49,7 +49,7 @@
 
 <i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Azfar Alam, an enthusiastic DevOps Engineer hailing from India.
+👋 Greetings! It's great to have you here. I'm Azfar Alam, an enthusiastic DevOps Engineer hailing from India..
 
 🚀 As the Founder of [HelpOps-Hub](https://www.helpopshub.com/), I created HelpOps-Hub to prevent anyone from getting stuck in DevOps. When I was learning DevOps, I encountered many errors with various tools and technologies that I couldn't solve by myself. It took a lot of time to resolve these issues, so I created HelpOps-Hub to save others from wasting their time on these errors. As the founder of HelpOps-Hub, I invite everyone to join our platform, share their experiences with DevOps tools and technologies, provide solutions to errors, and learn how to resolve issues quickly.
 
@@ -68,6 +68,23 @@
 😄 &nbsp; My standout strength lies in my unwavering adaptability—a dynamic force that transforms challenges into opportunities. Coupled with a relentless passion for continuous learning, I thrive in pushing boundaries, embracing innovation, and consistently delivering results that exceed expectations. 
 
 🎁 Empathy is my compass—guiding collaboration, fostering understanding, and creating a harmonious tapestry in every interaction.
+
+
+<br>
+<br>
+
+
+<details>
+  <summary>🏆 Certificates</summary>
+  <br>
+  
+ updating soon
+  
+</details>
+
+<br>
+<br>
+
 
 
 ## Latest Blog Posts  
@@ -237,3 +254,4 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
