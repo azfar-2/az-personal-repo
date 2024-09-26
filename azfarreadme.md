@@ -78,7 +78,28 @@
   <summary>🏆 Certificates</summary>
   <br>
   
- updating soon
+## Certificates
+
+| S.No. | Certificate Name | Issuing Authority | Date | Credential |
+|:-----:|:-----------------|:------------------:|:----:|:----------:|
+| 1. | ARTH 3.0 - DevOps Mastery | LinuxWorld Informatics Pvt. Ltd. | November 2023 | [Certificate](https://link_to_certificate) |
+| 1. | Industry Relevant AWS Training | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [Certificate](https://link_to_certificate) |
+| 2. | AWS Solutions Architect (CSA) | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [Certificate](https://link_to_certificate) |
+| 2. | Jenkins CI/CD using Pipeline | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [Certificate](https://link_to_certificate) |
+| 3. | Big Data Hadoop | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [Certificate](https://link_to_certificate) |
+| 3. | Mastering Git & Github | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [Certificate](https://link_to_certificate) |
+| 3. | Specialization in Container | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [Certificate](https://link_to_certificate) |
+| 3. | Specialization in Data Science | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [Certificate](https://link_to_certificate) |
+| 4. | MongoDB - NoSQL | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [Certificate](https://link_to_certificate) |
+| 4. | Bash Shell Scripting | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [Certificate](https://link_to_certificate) |
+| 5. | MySQL Database (Basic Training) | LinuxWorld Informatics Pvt. Ltd. | March 2023 | [Certificate](https://link_to_certificate) |
+| 6. | Data Structures & Algorithms (DSA) | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [Certificate](https://link_to_certificate) |
+| 7. | Monitoring using Prometheus & Grafana | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [Certificate](https://link_to_certificate) |
+| 8. | Kubernetes | LinuxWorld Informatics Pvt. Ltd. | November 2022 | [Certificate](https://link_to_certificate) |
+| 9. | Gitlab CI/CD Pipeline Training | LinuxWorld Informatics Pvt. Ltd. | October 2022 | [Certificate](https://link_to_certificate) |
+| 10. | Managing Infrastructure using Terraform | LinuxWorld Informatics Pvt. Ltd. | February 2022 | [Certificate](https://link_to_certificate) |
+
+
   
 </details>
 
